@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🔁 XML to JSON Converter
+# 🧩 XML to JSON Converter
 
-### Use XML to JSON Converter free on ToolAdda — quick, accurate, and browser-based.
+### Paste, upload, drag &amp; drop, or import XML from a URL and get clean, valid JSON instantly — with live validation, tree &amp; raw views, namespace and attribute controls, JSON Schema export, and batch conversion. Nothing ever leaves your browser.
 
 [![Visit XML to JSON Converter](https://img.shields.io/badge/Visit%20XML%20to%20JSON%20Converter-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/xml-to-json-converter.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/xml-to-json-converter.html)
 [![Category](https://img.shields.io/badge/Developer%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Free online XML to JSON Converter on ToolAdda — fast, private, and easy to use in your browser.**
+**Convert XML to JSON online free. Paste, upload, drag &amp; drop, or import from a URL. Tree &amp; raw views, live validation, namespace &amp; attribute controls, JSON Schema export, batch conversion. Runs entirely in your browser.**
 
 [🚀 **Open XML to JSON Converter Now →**](https://tooladda.online/xml-to-json-converter.html)
 
@@ -91,10 +91,21 @@ Visit tooladda.online — search for XML to JSON Converter or use the link in th
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>xml to json converter</code>&nbsp;
-  <code>free xml to json converter</code>&nbsp;
-  <code>online xml to json converter</code>&nbsp;
-  <code>xml to json converter tooladda</code>&nbsp;
+  <code>XML to JSON converter</code>&nbsp;
+  <code>convert XML to JSON</code>&nbsp;
+  <code>XML JSON converter</code>&nbsp;
+  <code>XML to JSON online</code>&nbsp;
+  <code>convert XML file</code>&nbsp;
+  <code>XML parser</code>&nbsp;
+  <code>JSON converter</code>&nbsp;
+  <code>XML formatter</code>&nbsp;
+  <code>JSON formatter</code>&nbsp;
+  <code>XML validator</code>&nbsp;
+  <code>free XML to JSON converter</code>&nbsp;
+  <code>convert XML file to JSON</code>&nbsp;
+  <code>XML to JSON with formatting</code>&nbsp;
+  <code>developer XML tools</code>&nbsp;
+  <code>best XML converter</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +122,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: XML to JSON Converter, xml to json converter, free xml to json converter, online xml to json converter, xml to json converter tooladda, tooladda, free online tool -->
+<!-- SEO: XML to JSON Converter, XML to JSON converter, convert XML to JSON, XML JSON converter, XML to JSON online, convert XML file, XML parser, JSON converter, XML formatter, JSON formatter, XML validator, free XML to JSON converter, convert XML file to JSON, XML to JSON with formatting, developer XML tools, best XML converter, tooladda, free online tool -->
